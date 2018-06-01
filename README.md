@@ -6,6 +6,6 @@
 
 ```ruby
 	def greeting
-		puts "Hi there"
+		puts "Hi there.  I am making changes to practice commit and push"
 	end
 ```
